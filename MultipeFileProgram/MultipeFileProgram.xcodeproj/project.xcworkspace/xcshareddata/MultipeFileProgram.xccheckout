@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>8EC1772A-B6E9-4C03-9959-B28195C720F6</string>
+	<key>IDESourceControlProjectName</key>
+	<string>MultipeFileProgram</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>0504EFC5EF686E063311AA29C31303A2849B1ACB</key>
+		<string>https://github.com/pjl414/Cpp</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>MultipeFileProgram/MultipeFileProgram.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>0504EFC5EF686E063311AA29C31303A2849B1ACB</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/pjl414/Cpp</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>0504EFC5EF686E063311AA29C31303A2849B1ACB</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>0504EFC5EF686E063311AA29C31303A2849B1ACB</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Cpp</string>
+		</dict>
+	</array>
+</dict>
+</plist>
