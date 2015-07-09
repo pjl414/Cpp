@@ -5,20 +5,20 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>03B67FE2-4187-4655-AEE3-E7D13FF0D8C5</string>
+	<string>76131B36-B55C-41A0-8526-BA80C2C776E5</string>
 	<key>IDESourceControlProjectName</key>
-	<string>SingleDigitPrimeTester</string>
+	<string>Chap2Test3</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
 		<key>0504EFC5EF686E063311AA29C31303A2849B1ACB</key>
 		<string>https://github.com/pjl414/Cpp</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>SingleDigitPrimeTester/SingleDigitPrimeTester.xcodeproj</string>
+	<string>QuizzesCPP/Chap2Test3/Chap2Test3.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>0504EFC5EF686E063311AA29C31303A2849B1ACB</key>
-		<string>../../..</string>
+		<string>../../../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
 	<string>https://github.com/pjl414/Cpp</string>
