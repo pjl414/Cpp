@@ -5,20 +5,20 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>4E94493C-A154-4393-A69A-4EE956C02BC6</string>
+	<string>6FFEB627-2866-430A-8DFB-29E62EBE0ED1</string>
 	<key>IDESourceControlProjectName</key>
-	<string>DataSizes</string>
+	<string>C3Operators</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
 		<key>0504EFC5EF686E063311AA29C31303A2849B1ACB</key>
 		<string>https://github.com/pjl414/Cpp</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>Chap1_2/DataSizes/DataSizes.xcodeproj</string>
+	<string>C3Operators/C3Operators.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>0504EFC5EF686E063311AA29C31303A2849B1ACB</key>
-		<string>../../../..</string>
+		<string>../../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
 	<string>https://github.com/pjl414/Cpp</string>

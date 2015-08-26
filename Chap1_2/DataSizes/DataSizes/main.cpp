@@ -50,8 +50,8 @@ int main()
     // uint8_t gives an "unsigned" integer of one byte. In genera a "uint..." is an unsigned integer.
     cout << "uint8_t: \t " << sizeof(uint8_t) << " byte" << "\t | \t"<< "Range -128 to 127"<< endl <<endl;
     
-    cout << "int16_t: \t " << sizeof(int16_t) <<" byte"<< "\t | \t"<< "Range -32,768 to 32,767" <<endl<<endl;
-    cout << "int32_t: \t " << sizeof(int8_t) <<" byte"<< "\t | \t"<< "Range -9,223,372,036,854,775,808 to"<< endl;
+    cout << "int16_t: \t " << sizeof(int16_t) <<" bytes"<< "\t | \t"<< "Range -32,768 to 32,767" <<endl<<endl;
+    cout << "int32_t: \t " << sizeof(int32_t) <<" bytes"<< "\t | \t"<< "Range -9,223,372,036,854,775,808 to"<< endl;
     cout <<"\t \t \t \t \t \t \t   9,223,372,036,854,775,807" <<endl;
     
     cout << "------------------------------------------------------"<<endl;
